@@ -1,5 +1,5 @@
 ### Hi there 👋
-![My Codewarrior Profile Badge](https://www.codewars.com/users/bitencourtgui/badges/micro)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/bitencourtgui/badges/small)
 <!--
 **bitencourtgui/bitencourtgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
